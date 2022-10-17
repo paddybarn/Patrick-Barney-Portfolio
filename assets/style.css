@@ -135,6 +135,11 @@ button:hover {
     flex-wrap: wrap;
 }
 
+.project3 {
+    height: 340px;
+    width: 500px;
+}
+
 h4{
     text-align: center;
     color: white;
